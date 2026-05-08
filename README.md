@@ -16,7 +16,7 @@
 
 | Reference / CVE | Vendor & Description |
 | :--- | :--- |
-| **[CVE-2026-24165](https://nvidia.custhelp.com/app/answers/detail/a_id/5808/~/security-bulletin%3A-nvidia-bionemo-framework---march-2026)** | **Nvidia** - BioNeMo Framework Remote Code Execution via Insecure Deserialization |
+| **[CVE-2026-24165](https://nvidia.custhelp.com/app/answers/detail/a_id/5808)** | **Nvidia** - BioNeMo Framework Remote Code Execution via Insecure Deserialization |
 | **[CVE-2026-42610](https://github.com/getgrav/grav/security/advisories/GHSA-3f29-pqwf-v4j4)** | **Grav CMS** - Information disclosure via sandbox escape |
 
 <br>
