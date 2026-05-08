@@ -1,6 +1,7 @@
 <div align="center">
 
 
+```text
  ███████████ █████       ███              ███               █████████  █████               ██████   █████      
 ░█░░░███░░░█░░███       ░░░              ░░░               ███░░░░░███░░███               ░░██████ ░░███       
 ░   ░███  ░  ░███████   ████   █████     ████   █████     ███     ░░░  ░███████    ██████  ░███░███ ░███       
@@ -9,11 +10,11 @@
     ░███     ░███ ░███  ░███  ░░░░███    ░███  ░░░░███   ░░███     ███ ░███ ░███ ░███░░░   ░███  ░░█████       
     █████    ████ █████ █████ ██████     █████ ██████     ░░█████████  ████ █████░░██████  █████  ░░█████ ██ ██
    ░░░░░    ░░░░ ░░░░░ ░░░░░ ░░░░░░     ░░░░░ ░░░░░░       ░░░░░░░░░  ░░░░ ░░░░░  ░░░░░░  ░░░░░    ░░░░░ ░░ ░░                                                                                                                
-
+```
 
 <br>
 
-<img src="gunter_ascii.gif" width="250" alt="Dancing Gunter in ASCII" />
+<img src="gunter_ascii.gif" width="400" alt="Dancing Gunter in ASCII" />
 
 <br><br>
 
@@ -25,17 +26,4 @@
 | **CVE-2026-XXXX** | **Grav CMS** - PX Pay authentication bypass / hardcoded secrets |
 
 <br>
-
-### 🏆 Certifications
-
-- **iPAS** Intermediate Information Security Engineer
-
-<br>
-
-<p align="center">
-  <img src="[https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)" alt="Python" />
-  <img src="[https://img.shields.io/badge/Burp_Suite-000000?style=flat-square&logo=burpsuite&logoColor=white](https://img.shields.io/badge/Burp_Suite-000000?style=flat-square&logo=burpsuite&logoColor=white)" alt="Burp Suite" />
-  <img src="[https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)" alt="Linux" />
-</p>
-
 </div>
