@@ -1,16 +1,41 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Samer666569/Samer666569** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+ ███████████ █████       ███              ███               █████████  █████               ██████   █████      
+░█░░░███░░░█░░███       ░░░              ░░░               ███░░░░░███░░███               ░░██████ ░░███       
+░   ░███  ░  ░███████   ████   █████     ████   █████     ███     ░░░  ░███████    ██████  ░███░███ ░███       
+    ░███     ░███░░███ ░░███  ███░░     ░░███  ███░░     ░███          ░███░░███  ███░░███ ░███░░███░███       
+    ░███     ░███ ░███  ░███ ░░█████     ░███ ░░█████    ░███          ░███ ░███ ░███████  ░███ ░░██████       
+    ░███     ░███ ░███  ░███  ░░░░███    ░███  ░░░░███   ░░███     ███ ░███ ░███ ░███░░░   ░███  ░░█████       
+    █████    ████ █████ █████ ██████     █████ ██████     ░░█████████  ████ █████░░██████  █████  ░░█████ ██ ██
+   ░░░░░    ░░░░ ░░░░░ ░░░░░ ░░░░░░     ░░░░░ ░░░░░░       ░░░░░░░░░  ░░░░ ░░░░░  ░░░░░░  ░░░░░    ░░░░░ ░░ ░░                                                                                                                
+```
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="gunter_ascii.gif" width="250" alt="Dancing Gunter in ASCII" />
+
+<br><br>
+
+### 🐛 Vulnerability Disclosures
+
+| Reference / CVE | Vendor & Description |
+| :--- | :--- |
+| **CVE-2026-XXXX** | **Nvidia** - Azure CLI image-copy extension vulnerability |
+| **CVE-2026-XXXX** | **Grav CMS** - PX Pay authentication bypass / hardcoded secrets |
+
+<br>
+
+### 🏆 Certifications
+
+- **iPAS** Intermediate Information Security Engineer
+
+<br>
+
+<p align="center">
+  <img src="[https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)" alt="Python" />
+  <img src="[https://img.shields.io/badge/Burp_Suite-000000?style=flat-square&logo=burpsuite&logoColor=white](https://img.shields.io/badge/Burp_Suite-000000?style=flat-square&logo=burpsuite&logoColor=white)" alt="Burp Suite" />
+  <img src="[https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)" alt="Linux" />
+</p>
+
+</div>
