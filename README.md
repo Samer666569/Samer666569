@@ -18,7 +18,7 @@
 
 <br><br>
 
-### 🐛 Vulnerability Disclosures
+### Vulnerability Disclosures
 
 | Reference / CVE | Vendor & Description |
 | :--- | :--- |
