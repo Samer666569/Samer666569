@@ -10,7 +10,7 @@
 
 <img src="gunter_ascii.gif" width="300" alt="Dancing Gunter in ASCII" />
 
-<br><br>
+<br>
 
 ### Vulnerability Disclosures
 
