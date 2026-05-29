@@ -19,6 +19,7 @@
 | **[CVE-2026-24217](https://nvidia.custhelp.com/app/answers/detail/a_id/5831)** | **Nvidia** - BioNeMo Framework Remote Code Execution via Path Traversal |
 | **[CVE-2026-24216](https://nvidia.custhelp.com/app/answers/detail/a_id/5831)** | **Nvidia** - BioNeMo Framework Remote Code Execution via Insecure Deserialization |
 | **[CVE-2026-24165](https://nvidia.custhelp.com/app/answers/detail/a_id/5808)** | **Nvidia** - BioNeMo Framework Remote Code Execution via Insecure Deserialization |
+| **[CVE-2026-42610](https://nvd.nist.gov/vuln/detail/CVE-2026-48843)** | **Nextcloud** - Roundcube Server Side Request Forgery |
 | **[CVE-2026-42610](https://github.com/getgrav/grav/security/advisories/GHSA-3f29-pqwf-v4j4)** | **Grav CMS** - Information disclosure via sandbox escape |
 
 <br>
