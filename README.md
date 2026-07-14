@@ -16,6 +16,7 @@
 
 | Reference / CVE | Vendor & Description |
 | :--- | :--- |
+| **[CVE-2026-45496](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-45496)** | **Microsoft** - Information disclosure via Security Feature Bypass |
 | **[CVE-2026-24217](https://nvidia.custhelp.com/app/answers/detail/a_id/5831)** | **Nvidia** - BioNeMo Framework Remote Code Execution via Path Traversal |
 | **[CVE-2026-24216](https://nvidia.custhelp.com/app/answers/detail/a_id/5831)** | **Nvidia** - BioNeMo Framework Remote Code Execution via Insecure Deserialization |
 | **[CVE-2026-24165](https://nvidia.custhelp.com/app/answers/detail/a_id/5808)** | **Nvidia** - BioNeMo Framework Remote Code Execution via Insecure Deserialization |
