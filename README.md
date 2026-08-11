@@ -16,6 +16,9 @@
 
 | Reference / CVE | Vendor & Description |
 | :--- | :--- |
+| **[CVE-2026-70338](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70338)** | **Microsoft** - Powershell WDAC Bypass via Security Feature Bypass |
+| **[CVE-2026-58650](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-58650)** | **Microsoft** - Visual Studio Code Remote Code Execution via Security Feature Bypass |
+| **[CVE-2026-69278](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69278)** | **Microsoft** - Visual Studio Code Remote Code Execution via Security Feature Bypass |
 | **[CVE-2026-45496](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-45496)** | **Microsoft** - Visual Studio Code Information disclosure via Security Feature Bypass |
 | **[CVE-2026-24217](https://nvidia.custhelp.com/app/answers/detail/a_id/5831)** | **Nvidia** - BioNeMo Framework Remote Code Execution via Path Traversal |
 | **[CVE-2026-24216](https://nvidia.custhelp.com/app/answers/detail/a_id/5831)** | **Nvidia** - BioNeMo Framework Remote Code Execution via Insecure Deserialization |
